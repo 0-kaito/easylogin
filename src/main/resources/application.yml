@@ -8,4 +8,4 @@ mybatis:
   configuration:
     mapUnderscoreToCamelCase: true
     
-    #GitHub連携
+    
